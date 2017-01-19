@@ -15,7 +15,7 @@
 先看下这个`Layout`跑起来的效果如何：
 
 
-![Label Demo](http://wx4.sinaimg.cn/mw690/e1178d99gy1fbv11ovbkag20dw0oie8f.gif)
+![Label Demo](https://github.com/JayZhaoCN/JayZhao.github.io/blob/master/demo.gif)
 
 Label的位置有4种，`LEFT_TOP`, `LEFT_BOTTOM`, `RIGHT_TOP`, `RIGHT_BOTTOM`，顾名思义即可。
 
